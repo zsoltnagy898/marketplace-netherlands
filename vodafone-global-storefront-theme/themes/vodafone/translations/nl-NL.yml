@@ -1,0 +1,48 @@
+home:
+  help: 'Help'
+  app_support: 'App support'
+  business_apps: 'Business apps'
+  search: 'Zoeken'
+  login: 'Log in'
+  contact_us: 'Contact'
+  contact_support: 'Contact Support'
+  popular_apps: 'Populaire Apps'
+  recommended_solutions: 'Aanbevolen oplossingen'
+  why_buy_business_apps_from_vodafone: 'Waarom Business Apps bij Vodafone kopen'
+  featured_partners: 'Aanbevolen partners'
+  terms_and_conditions: 'Voorwaarden'
+  privacy_policy: 'Privacy Policy'
+  knowledge_base: 'Kennisbank'
+  support_details: 'Support etails'
+  support_telephone: 'Support telefoon'
+  support_email: 'Support e-mail'
+  general_policy: 'Algemeen beleid'
+  view_more: 'Bekijk meer'
+  all_apps: 'All apps'
+  why_vodafone:
+    section_1: 'Simpel - Beheer al uw Business Apps vanaf een enkele plek'
+    section_2: 'App support - krijg de gewenste ondersteuning die u nodig heeft, waneer u het nodig heeft, vanaf één plek'
+    section_3: 'Bespaar tijd- Eenvoudig toegang to een groeiend aantal business apps die u helpen uw bedrijf te runnen, te laten groeien en te beveiligen.'
+  go_to_product: 'Ga naar product'
+listing:
+  filters: 'Filters'
+  catergories: 'categorieën'
+  sort_by: 'Sorteer op'
+  clear_filters: 'Wis filters'
+  list_view: 'Lijstweergave'
+  grid_view: 'Rasterweergave'
+  buy_now: 'Bestel nu'
+help_menu: 'Servicesdesk: <br>
+            Ma – Vri, 8.00 – 18.00 hrs <br>
+            E-mail: <a href="mailto:OnenetEnterpriseSupport@vodafoneziggo.com">OnenetEnterpriseSupport@vodafoneziggo.com</a> <br>
+            Phone: +31 43 387 0228 <br>
+            Technical Support: <br>
+            Ma – Zon, 24*7 <br>
+            E-mail: <a href="mailto:technicalservices@vodafoneziggo.com">technicalservices@vodafoneziggo.com</a> <br>
+            Telefoon: <a href="tel:08871220020">088 712 20020 optie 1</a>
+            '
+help_menu_title: 'Need help?'
+searchBar:
+  placeholder: 'Zoek applicaties'
+register_link: 'https://cloud-marketplace.vodafone.de/vap/#/saas-register'
+register_text: 'Register'
