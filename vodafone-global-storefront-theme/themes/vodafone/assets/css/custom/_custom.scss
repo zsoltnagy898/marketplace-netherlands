@@ -9012,6 +9012,7 @@ p {
   width: 60%;
   @include media-breakpoint-down(md) {
     width: 100%;
+    margin-left: 15px;
   }
 }
 
@@ -9020,7 +9021,12 @@ p {
   @include media-breakpoint-down(md) {
     width: 100%;
     margin-top: 15px;
+    margin-left: 15px;
   }
+}
+
+.netherlands-footer-social-icons {
+  width: 450px;
 }
 
 .ad-universalnav .footer__curtain {
