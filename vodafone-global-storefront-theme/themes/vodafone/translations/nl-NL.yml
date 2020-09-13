@@ -41,7 +41,7 @@ help_menu: 'Servicesdesk: <br>
             E-mail: <a href="mailto:technicalservices@vodafoneziggo.com">technicalservices@vodafoneziggo.com</a> <br>
             Telefoon: <a href="tel:08871220020">088 712 20020 optie 1</a>
             '
-help_menu_title: 'Need help?'
+help_menu_title: 'Help'
 searchBar:
   placeholder: 'Zoek applicaties'
 register_link: 'https://cloud-marketplace.vodafone.de/vap/#/saas-register'
